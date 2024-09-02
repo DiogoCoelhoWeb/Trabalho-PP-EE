@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Mandatory Libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libraries/PP.22.23.EE.students.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/json-simple-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
