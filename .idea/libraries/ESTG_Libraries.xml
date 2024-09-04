@@ -1,8 +1,8 @@
 <component name="libraryTable">
-  <library name="Mandatory Librarie">
+  <library name="ESTG Libraries">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../Libraries/json-simple-1.1.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Libraries/PP.22.23.EE.students.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Libraries/PP.2324.MA05.students.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
